@@ -1,0 +1,3 @@
+^r[0-9]-{3}sn-[^-]*\.googlevideo\.com$
+^.*\.swhgd\.com$
+^.*\.sogoucdn\.com$
