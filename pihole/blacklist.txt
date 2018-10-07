@@ -1,5 +1,3 @@
 ads.exosrv.com
 js.juicyads.com
-push2k.sogou.com
-apt2k.sogou.com
-img01.sogoucdn.com
+nat.emule.org.cn

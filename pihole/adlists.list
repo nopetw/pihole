@@ -5,3 +5,9 @@ https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://hosts-file.net/ad_servers.txt
+https://hosts.nfz.moe/basic/hosts
+https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt
+http://dn-mwsl-hosts.qbox.me/hosts.txt
+https://adaway.org/hosts.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+https://github.com/yous/YousList/raw/master/hosts.txt
